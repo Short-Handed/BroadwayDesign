@@ -12,6 +12,7 @@ body {
 
 #home {
   background-image: url(../images/the-flatiron-building.png);
+  background-repeat: no-repeat;
 }
 
 a {
@@ -42,7 +43,7 @@ h3 {
 }
 
 nav {
-  font-size: 18px;
+  font-size: 11px;
   color: white;
   text-align: left;
   background-color: dimgray;
